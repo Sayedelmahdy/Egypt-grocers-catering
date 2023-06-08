@@ -31,4 +31,4 @@ To use the Egyptian Catering Store Program, follow these steps:
 
 ### Support
 
-If you encounter any issues while using the Egyptian Catering Store Program or have any questions, please contact our support team at [insert contact information].
+If you encounter any issues while using the Egyptian Catering Store Program or have any questions, please contact me.
